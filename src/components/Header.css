@@ -1,0 +1,39 @@
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #f5a9b8;
+    padding: 1rem 0;
+}
+
+.red {
+    background-color: #e40303;
+}
+
+.orange {
+    background-color: #ff8c00;
+}
+
+.yellow {
+    background-color: #ffed00;
+}
+
+.green {
+    background-color: #008026;
+}
+
+.indigo {
+    background-color: #24408e;
+}
+
+.violet {
+    background-color: #732982;
+}
+
+.lightblue {
+    background-color: #5bcefa;
+}
+
+.pink {
+    background-color: #f5a9b8;
+}
